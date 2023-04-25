@@ -1,0 +1,9 @@
+keyboard==0.13.5
+numpy==1.24.2
+opencv_python==4.7.0.72
+PyAutoGUI==0.9.53
+PyDirectInput==1.0.4
+pydirectinput_rgx==2.0.7
+pygame==2.3.0
+pywin32==306
+torch==1.11.0+cu113
