@@ -4,9 +4,11 @@ This project uses YOLOv5 object detection model to detect players in Minecraft a
 
 # Installation
 Clone the repository:
+
 ```git clone https://github.com/BainBan/Player-Detection-minecraft-using-yolov5.git```
-#Install the required packages:
+# Install the required packages:
 ```pip install -r requirements.txt```
+
 Download the 'best.pt' file from the repository and place it in the project directory.
 # Usage
 Run the following command in the project directory to start the program:
